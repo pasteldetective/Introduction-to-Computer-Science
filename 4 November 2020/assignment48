@@ -1,0 +1,14 @@
+#Jackie yee
+#20 November 2020
+#jackie.yee14@myhunter.cuny.edu
+#Shell script:  creates directories for project
+mkdir programs
+mkdir files
+cd programs
+mkdir python
+mkdir c++
+cd -
+cd files 
+mkdir pdf
+mkdir csv
+mkdir images
